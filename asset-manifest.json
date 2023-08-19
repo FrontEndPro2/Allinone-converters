@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Allinone-converters/static/css/main.073c9b0a.css",
+    "main.js": "/Allinone-converters/static/js/main.0f17b80d.js",
+    "static/js/787.7b5a7d75.chunk.js": "/Allinone-converters/static/js/787.7b5a7d75.chunk.js",
+    "index.html": "/Allinone-converters/index.html",
+    "main.073c9b0a.css.map": "/Allinone-converters/static/css/main.073c9b0a.css.map",
+    "main.0f17b80d.js.map": "/Allinone-converters/static/js/main.0f17b80d.js.map",
+    "787.7b5a7d75.chunk.js.map": "/Allinone-converters/static/js/787.7b5a7d75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0f17b80d.js"
+  ]
+}
